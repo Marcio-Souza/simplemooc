@@ -3,3 +3,7 @@ __pycache__
 venv
 db.sqlite3
 .DS_Store
+.idea/misc.xml
+.idea/modules.xml
+.idea/simplemooc.iml
+.idea/workspace.xml
